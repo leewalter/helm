@@ -9,8 +9,8 @@ restartPolicy: Never
 sleepyTime: "10"
 
 index: >-
-  <h1>Hello</h1>
-  <p>This is a test</p>
+  <h1>Walter Lee 1st helm chart to install Nginx</h1>
+  <p>This is a test for Walter Lee 1st helm chart of Nginx</p>
 
 image:
   repository: nginx
